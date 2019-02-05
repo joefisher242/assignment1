@@ -1,3 +1,7 @@
- a { 
-                font-family: fantasy;
+html{
+    color: rgb(15, 66, 181)
+} 
+
+a { 
+                font-family: sans-serif;
             }
